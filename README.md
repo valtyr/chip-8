@@ -33,5 +33,6 @@ I've included a ROM to test the emulator out with. The emulator expects a ROM pi
 - [x] Implement all instructions needed for basic functionality
 - [x] Add in graphics support
 - [x] Add in keyboard input support
+- [ ] Add in sound!!
 - [ ] Iron out kinks and quirks
 - [ ] Refactor into a better structured project
